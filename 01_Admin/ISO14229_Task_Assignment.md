@@ -1,19 +1,19 @@
 ISO14229    翻译任务分配
 
-- 章节  责任人                  页数
-- 1    XU WENXIANG
-- 2    XU WENXIANG
-- 3    XU WENXIANG
-- 4    XU WENXIANG       1-35页前八章 XU WENXIANG 
-- 5    XU WENXIANG
-- 6    XU WENXIANG
-- 7    XU WENXIANG
-- 8    XU WENXIANG
-- 9		 taoynkkx和yy57    35-106页第9章，总共70页
-- 10   卜                106-174页第10章，总共68页
-- 11   jay和苏明涛              174-245页第11章，总共71页
-- 12   仰望天空
-- 13   仰望天空           245-303页第12 13 14章， 总共55页
-- 14   仰望天空
-- 15
-- 附录   临时工            324-390页，总页数66页
+| 章节 | 责任人 | 页数  |
+|-----|---------------|----|
+| 1   | XU WENXIANG   |  |
+| 2   |  XU WENXIANG  | |
+| 3   |  XU WENXIANG  | |
+| 4   |  XU WENXIANG  | 1-35页前八章 XU WENXIANG |
+| 5   |  XU WENXIANG  | |
+| 6   |  XU WENXIANG  | |
+| 7   |  XU WENXIANG  | |
+| 8   |  XU WENXIANG  | |
+| 9		|  taoynkkx和yy57  | 35-106页第9章，总共70页 |
+| 10  |  卜         | 106-174页第10章，总共68页 |
+| 11  |  jay和苏明涛 | 174-245页第11章，总共71页 |
+| 12  |  仰望天空    |  |
+| 13  |  仰望天空    | 245-303页第12 13 14章， 总共55页 |
+| 14  |  仰望天空    |  |
+| 附录 |   临时工  | 324-390页，总页数66页 |
